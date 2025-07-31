@@ -53,7 +53,6 @@ pip install -r requirements.txt
 Create this file: `.streamlit/secrets.toml`
 
 ```toml
-[general]
 OPENCAGE_API_KEY = "your_opencage_api_key"
 ```
 
